@@ -1,0 +1,6 @@
+18/03/2022 00:04:12 https://random-status-code.herokuapp.com/- online: false
+18/03/2022 00:04:12 https://www.alura.com.br/- online: true
+18/03/2022 00:04:18 https://random-status-code.herokuapp.com/- online: true
+18/03/2022 00:04:18 https://www.alura.com.br/- online: true
+18/03/2022 00:04:24 https://random-status-code.herokuapp.com/- online: true
+18/03/2022 00:04:25 https://www.alura.com.br/- online: true
